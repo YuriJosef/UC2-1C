@@ -12,7 +12,7 @@
 # Yuri Jose
 
 Atividade 1: Trello 
-- [Grupo](link)
-- [Grupo](link)
+- [Trabalho do trelo](https://trello.com/invite/b/QsYz0AdR/ATTIbe86f40dc774a5258fbeef4cd2b753ddED274CD9/analise-swot)
+- [Trabalho do Trelo](https://trello.com/invite/b/5enRkCmQ/ATTI4d115a4059609cfc6ef6b3b3846268d96B6C38BD/gerenciamento-de-entregas-para-1c)
 
 
