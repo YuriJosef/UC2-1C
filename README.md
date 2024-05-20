@@ -12,8 +12,14 @@
 # Yuri Jose
 
 Atividade 1: Trello 
-- [Trabalho do trelo](https://trello.com/invite/b/QsYz0AdR/ATTIbe86f40dc774a5258fbeef4cd2b753ddED274CD9/analise-swot)
-- [Trabalho do Trelo](https://trello.com/invite/b/5enRkCmQ/ATTI4d115a4059609cfc6ef6b3b3846268d96B6C38BD/gerenciamento-de-entregas-para-1c)
-- [Trabalho do Trelo](https://trello.com/invite/b/2BRJyv7j/ATTI5658f792b5414e498401c65ab67bec537FAB1029/projeto-pessoal)
-- [Trabalho da Problematica](https://www.canva.com/design/DAGCfvKibA4/OlvxCvUgIoPQpSIN0uqHGQ/edit?utm_content=DAGCfvKibA4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Trabalho da Linguagem GO](https://www.canva.com/design/DAGEjaXxHqU/f4kD7Ghe-EfPqTGlCe5M9g/edit?utm_content=DAGEjaXxHqU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Atividade do trelo](https://trello.com/invite/b/QsYz0AdR/ATTIbe86f40dc774a5258fbeef4cd2b753ddED274CD9/analise-swot)
+
+- [Atividade do Trelo](https://trello.com/invite/b/5enRkCmQ/ATTI4d115a4059609cfc6ef6b3b3846268d96B6C38BD/gerenciamento-de-entregas-para-1c)
+
+- [Atividade do Trelo](https://trello.com/invite/b/2BRJyv7j/ATTI5658f792b5414e498401c65ab67bec537FAB1029/projeto-pessoal)
+
+- [Atividade da Problematica](https://www.canva.com/design/DAGCfvKibA4/OlvxCvUgIoPQpSIN0uqHGQ/edit?utm_content=DAGCfvKibA4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- [Atividade da Linguagem GO](https://www.canva.com/design/DAGEjaXxHqU/f4kD7Ghe-EfPqTGlCe5M9g/edit?utm_content=DAGEjaXxHqU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- [Atividade do Miro](https://miro.com/welcomeonboard/WVNPM25VbjRsWDFJaGd4bjhyT2pFclFqVGdjaGxIaXpqcWxjS2U2Y2ZVY2dmS01XS01GQk1ScURCdktuU3ZycXwzNDU4NzY0NTg4OTkyODU4NTk2fDI=?share_link_id=399305953656)
