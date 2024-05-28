@@ -26,3 +26,5 @@
 - [Atividade do Miro](https://miro.com/welcomeonboard/WVNPM25VbjRsWDFJaGd4bjhyT2pFclFqVGdjaGxIaXpqcWxjS2U2Y2ZVY2dmS01XS01GQk1ScURCdktuU3ZycXwzNDU4NzY0NTg4OTkyODU4NTk2fDI=?share_link_id=399305953656)
 
 - [Atividade do Docs](https://docs.google.com/document/d/1YrNIKXmeYYK6bw4iOGxsO4OLdsLWqpvU4E7v0BKzcNs/edit?usp=sharing)
+
+- [Atividade da Planilha](https://docs.google.com/spreadsheets/d/15r5nhLpCM5i1E_Zci2s4DUmjR404hpoycgde-5hmax4/edit?usp=sharing)
