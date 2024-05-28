@@ -13,7 +13,7 @@
 
 ## Atividade 1 : Trello 
 
-- [Atividade do trelo](https://trello.com/invite/b/QsYz0AdR/ATTIbe86f40dc774a5258fbeef4cd2b753ddED274CD9/analise-swot)
+- [Atividade do Trelo](https://trello.com/invite/b/QsYz0AdR/ATTIbe86f40dc774a5258fbeef4cd2b753ddED274CD9/analise-swot)
 
 - [Atividade do Trelo](https://trello.com/invite/b/5enRkCmQ/ATTI4d115a4059609cfc6ef6b3b3846268d96B6C38BD/gerenciamento-de-entregas-para-1c)
 
